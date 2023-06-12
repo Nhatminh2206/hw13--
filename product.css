@@ -1,0 +1,15 @@
+
+body {
+    font-family: Microsoft JhengHei;
+}
+#banner {
+    background-image: url(https://static.kinhtedothi.vn/images/upload/2022/07/22/cac-loai-trai-cay.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 300px;
+    margin-top: 3.5rem;
+}
+.title {
+    color: #FA8072;
+    font-weight: bold;
+}
